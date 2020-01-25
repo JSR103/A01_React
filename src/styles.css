@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.two {
+  background-color: blue;
+  color: white;
+}
+.one {
+  background-color: red;
+  color: white;
+}
