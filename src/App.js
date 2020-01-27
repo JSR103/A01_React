@@ -19,7 +19,7 @@ let scoresTwo = [];
 let nameOne = [];
 let nameTwo = [];
 
-quizData.quizzes.forEach(function(element) {
+obj.forEach(function(element) {
   for (let i = 0; i < element.scoreOne.length; i++) {
     let name = element.scoreOne[i].first + " " + element.scoreOne[i].last;
     //console.log(name);
